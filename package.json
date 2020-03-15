@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot-hw-8",
+  "version": "1.0.0",
+  "description": "Liri Bot HW 8",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OAbbasi522/Liri-Bot-HW-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OAbbasi522/Liri-Bot-HW-8/issues"
+  },
+  "homepage": "https://github.com/OAbbasi522/Liri-Bot-HW-8#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
